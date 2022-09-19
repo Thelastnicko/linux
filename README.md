@@ -17,6 +17,8 @@
 | cp | copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY |
 | sudo| super user do, this command will give you main user permissions |
 | which | provides the location of the directory where the command lives |
+| man | provides detailed manual of a given command |
+
 
 
 
