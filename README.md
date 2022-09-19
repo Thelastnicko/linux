@@ -7,3 +7,4 @@
 ## Linux commands:
 
 pwd: print working directory
+ls: list files or directories
