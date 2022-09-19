@@ -13,5 +13,7 @@
 | ls | list files or directories |
 | cd | change directories |
 | whomai |  print the user name associated with the current effective user ID |
+| cat | copy standard input to standard output |
+
 
 
