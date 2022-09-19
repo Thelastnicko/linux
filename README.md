@@ -6,6 +6,10 @@
 
 ## Linux commands:
 
+
+
+| command | description |
+
 |pwd| print working directory
 ls: list files or directories
 cd: change directory
