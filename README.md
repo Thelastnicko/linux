@@ -6,6 +6,6 @@
 
 ## Linux commands:
 
-|pwd:| print working directory
+|pwd| print working directory
 ls: list files or directories
 cd: change directory
