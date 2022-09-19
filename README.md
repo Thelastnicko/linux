@@ -19,6 +19,9 @@
 | which | provides the location of the directory where the command lives |
 | man | provides detailed manual of a given command |
 | -h or --help | provides usage of the given command |
+| useradd | creates a new user |
+
+
 
 
 
