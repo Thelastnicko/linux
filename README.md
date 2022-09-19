@@ -1,4 +1,4 @@
-# This repo contain some notes of my Linux learning joruney.
+# This repo contains some notes of my Linux learning joruney.
 
 
 
